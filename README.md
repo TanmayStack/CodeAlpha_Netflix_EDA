@@ -1,11 +1,12 @@
-##Netflix Data Analysis and Visualization
+Netflix Data Analysis and Visualization
 
-##Project Overview:-
+Project Overview
+
 This project is part of the CodeAlpha Data Analytics Internship.
 
 The project focuses on Exploratory Data Analysis (EDA) and Data Visualization using the Netflix Titles Dataset. The analysis helps identify trends, patterns, and insights related to Netflix content.
 
-#Technologies Used
+Technologies Used
 1]Python
 2]Pandas
 3]Matplotlib
